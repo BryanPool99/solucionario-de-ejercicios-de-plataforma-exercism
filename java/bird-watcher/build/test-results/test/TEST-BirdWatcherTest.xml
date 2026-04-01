@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BirdWatcherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-01T00:46:59.121Z" hostname="DESKTOP-IBBNF1A" time="0.038">
+  <properties/>
+  <testcase name="The getBusyDays method correctly returns zero in case of no busy days" classname="BirdWatcherTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
